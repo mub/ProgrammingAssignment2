@@ -57,3 +57,4 @@ cacheSolve <- function(mxWrap) {
         mxWrap$setInv(inv) # store it
         inv # return it
 }
+
